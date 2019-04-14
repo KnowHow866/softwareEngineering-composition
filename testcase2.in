@@ -1,0 +1,20 @@
+Text 0 12 5 72 Hi
+Text 1 1 1 1 <ParagraphEnd>
+Text 2 12 5 72 nice
+Text 3 12 5 72 to
+Text 4 12 5 72 meet
+Text 5 12 5 72 you
+GraphicalElement 6 20 10 100 scared.jpg
+Text 7 1 1 1 <ParagraphEnd>
+Require SimpleComposition
+Require TexComposition
+Require ArrayComposition
+Text 8 12 5 72 to
+Text 9 12 5 72 be
+Text 10 12 5 72 or not to be
+Text 11 12 5 72 that is the
+GraphicalElement 12 20 10 100 question.jpg
+Text 13 1 1 1 <ParagraphEnd>
+Require SimpleComposition
+Require TexComposition
+Require ArrayComposition
