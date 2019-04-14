@@ -1,5 +1,5 @@
 all:
-	javac ArrayLineBreakStrategy.java Component.java Composition.java LineBreakStrategy.java Main.java SimpleLineBreakStrategy.java TexLineBreakStrategy.java
+	javac Main.java
 
 clean:
-	rm -f *.class
+	rm -f *.class textcomposition/*.class

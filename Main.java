@@ -4,6 +4,13 @@ import java.nio.file.Files;
 import java.io.IOException;
 import java.io.BufferedReader;
 
+import textcomposition.Composition;
+import textcomposition.Component;
+import textcomposition.LineBreakStrategy;
+import textcomposition.SimpleLineBreakStrategy;
+import textcomposition.TexLineBreakStrategy;
+import textcomposition.ArrayLineBreakStrategy;
+
 /**
  * Main.
  * @author group2

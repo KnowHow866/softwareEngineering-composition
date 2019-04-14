@@ -1,3 +1,5 @@
+package textcomposition;
+
 /**
  * Component.
  * @author group2
