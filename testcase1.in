@@ -1,0 +1,18 @@
+Text 0 12 5 72 Hi
+Text 1 1 1 1 <ParagraphEnd>
+Text 2 12 5 72 nice
+Text 3 12 5 72 to
+Text 4 12 5 72 meet
+Text 5 12 5 72 you
+GraphicalElement 6 20 10 100 scared.jpg
+Text 7 1 1 1 <ParagraphEnd>
+Text 8 1 1 1 HI
+ChangeSize 0 4
+ChangeSize 0 5
+ChangeSize 0 72
+ChangeSize 0 73
+ChangeSize 6 9
+ChangeSize 6 10
+ChangeSize 6 55
+ChangeSize 6 100
+ChangeSize 6 101
